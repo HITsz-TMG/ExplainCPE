@@ -28,8 +28,6 @@ Following is the structure of the repository.
 
 ## Dataset
 
-The data is available [here](https://drive.google.com/drive/folders/1rpEyFWzoayUHBmxGitpWVOmf2MkZTsCt?usp=sharing). You can also download and use Hansel through  [the HuggingFace's datasets library :hugs:](https://huggingface.co/datasets/HIT-TMG/Hansel).
-
 ### Data Statistics
 
 |     | # Train |  # Dev | # Test |
