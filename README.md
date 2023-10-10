@@ -45,7 +45,7 @@ Options per problem |   |  5  |   |
 
 ### Data Example
 
-![Data Example](imgs/Example.png)
+![Data Example](imgs/Example.png){:height="50%" width="50%"}
 
 ### Data Format
 
