@@ -45,7 +45,7 @@ Options per problem |   |  5  |   |
 
 ### Data Example
 
-![Data Example](imgs/Example.png){:height="50%" width="50%"}
+<img src="imgs/Example.png" width = "50%" height = "50%" alt="Data Example" align=center />
 
 ### Data Format
 
