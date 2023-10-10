@@ -4,7 +4,7 @@
 
 # ExplainCPE: A Free-text Explanation Benchmark of Chinese Pharmacist Examination
 
-This is the main page of our [EMNLP 2023](https://www.wsdm-conference.org/2023/) paper [**ExplainCPE**](https://arxiv.org/abs/2305.12945).
+This is the main page of our [EMNLP 2023](https://2023.emnlp.org/) paper [**ExplainCPE**](https://arxiv.org/abs/2305.12945).
 
 
 
