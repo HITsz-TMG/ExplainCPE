@@ -80,7 +80,7 @@ If you use our dataset in your work, please cite us.
 ```bibtex
 @misc{li2023emnlp,
   title = {ExplainCPE: A Free-text Explanation Benchmark of Chinese Pharmacist Examination},
-  author = {Xu, Zhenran and Shan, Zifei and Li, Yuxin and Hu, Baotian and Qin, Bing},
+  author = {Li, Dongfang and Yu, Jindi and Hu, Baotian and Xu, Zhenran and Zhang, Min},
   publisher = {arXiv},
   year = {2023},
   url = {https://arxiv.org/abs/2305.12945}
